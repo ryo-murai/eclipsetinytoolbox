@@ -4,7 +4,6 @@
 <mapAttribute key="org.eclipse.debug.core.environmentVariables">
 <mapEntry key="JAVA_HOME" value="${system_property:java.home}"/>
 </mapAttribute>
-<stringAttribute key="org.eclipse.debug.ui.ATTR_CONSOLE_ENCODING" value="UTF-8"/>
 <listAttribute key="org.eclipse.debug.ui.favoriteGroups">
 <listEntry value="org.eclipse.ui.externaltools.launchGroup"/>
 </listAttribute>
